@@ -17,5 +17,4 @@ public class main {
 			tPers[i].soigner();
 		}
 	}
-
 }
