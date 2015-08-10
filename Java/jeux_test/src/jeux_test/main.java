@@ -1,5 +1,6 @@
 package jeux_test;
 
+// ajout commentaire pour tester avec git
 public class main {
 
 	public static void main(String[] args) {
