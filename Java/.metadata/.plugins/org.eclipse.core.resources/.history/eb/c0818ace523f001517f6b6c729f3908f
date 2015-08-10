@@ -1,5 +1,0 @@
-package jeux_test;
-
-public interface EspritCombatif {
-	void public combat();
-}
