@@ -3,8 +3,7 @@ package jeux_test;
 // ajout commentaire pour tester avec git
 public class main {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public main(String[] args) {
 		Personnage[] tPers = {new Guerrier(), new Civil()};
 		
 		for (int i = 0; i < tPers.length; i++)
