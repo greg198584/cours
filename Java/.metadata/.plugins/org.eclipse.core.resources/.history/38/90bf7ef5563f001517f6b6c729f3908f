@@ -1,0 +1,7 @@
+package jeux_test;
+
+public abstract class Personnage {
+	protected EspritCombat;
+	protected Soin;
+	protected Deplacement;
+}
